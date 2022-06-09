@@ -1,0 +1,14 @@
+{
+  "name": "y",
+  "version": "y",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "highlight": "^0.2.4",
+    "vuepress": "^1.9.7"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs --temp .temp",
+    "build": "vuepress build docs"
+  }
+}
